@@ -1,0 +1,21 @@
+table{
+    border: 3px solid black;
+}
+
+th, td {
+    border: 1px solid black;
+}
+
+tr:nth-of-type(even){
+    background-color: rgb(214, 243, 252);
+}
+
+th{
+    background-color: rgb(56, 142, 170);
+    color: white;
+    width: 100px;
+    margin: auto;
+    text-align: center;
+
+}
+
